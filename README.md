@@ -16,6 +16,18 @@ no-coloured figures.
 Once a new figure is designed, the *.svg and the *.png files with same file name
 should be included in the `figs/` folder.
 
+## What are the main topics of the book?
+
+The book includes not only the most classical topics such us two-body problem,
+three-body problem, relative motion, perturbations but also low-thrust
+maneuvers, time scales and reference frames, main information on Solar System
+bodies and more!
+
+For example, you can check one of the beautiful images that this book provides.
+In this case general information on planet Mercury is shown in the figure:
+
+![Mercury](figs/bodies/mercury.png)
+
 ## How to contribute 🖥️
 
 Contributions are always welcome, since writing a book alone is a tedious work.

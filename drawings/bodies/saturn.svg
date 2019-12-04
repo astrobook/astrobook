@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2633"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="saturn.svg"
+   inkscape:export-filename="/home/lobo/Git/astrobook/figs/bodies/mercury.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2627" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.33323201"
+     inkscape:cx="564.56353"
+     inkscape:cy="729.99606"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2630">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#040000;stroke-width:0.7898857;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2513"
+       width="199.21011"
+       height="114.49718"
+       x="-205.60014"
+       y="66.421692"
+       transform="scale(-1,1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.30674648px;line-height:1.25;font-family:'3270SemiNarrow Nerd Font';-inkscape-font-specification:'3270SemiNarrow Nerd Font';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="118.89019"
+       y="72.850861"
+       id="text3977"><tspan
+         sodipodi:role="line"
+         id="tspan3975"
+         x="118.89019"
+         y="72.850861"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80981541px;line-height:1;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';text-align:start;text-anchor:start;stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Name: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4165">Mercury</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="118.89019"
+         y="85.734291"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80981541px;line-height:1;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';text-align:start;text-anchor:start;stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3979">Symbol: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';fill:#ff0000;stroke:#fc0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4185">☿</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="118.89019"
+         y="98.617729"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80981541px;line-height:1;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';text-align:start;text-anchor:start;stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3983">Mass: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4169">3.301e23 [kg]</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="118.89019"
+         y="111.50116"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80981541px;line-height:1;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';text-align:start;text-anchor:start;stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3993">μ: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4171">2.203209e13 [m3/s2]</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="118.89019"
+         y="124.38459"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80981541px;line-height:1;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';text-align:start;text-anchor:start;stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3985">Equatorial radius: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4173">2.44053e6 [m]</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="118.89019"
+         y="137.26802"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80981541px;line-height:1;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';text-align:start;text-anchor:start;stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3987">Polar radius: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4175">2.43826e6 [m]</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="118.89019"
+         y="150.15146"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80981541px;line-height:1;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';text-align:start;text-anchor:start;stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3989">Mean radius: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4177">2.4394e6 [m]</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="118.89019"
+         y="163.0349"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80981541px;line-height:1;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';text-align:start;text-anchor:start;stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3997">Rotational Period: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4179"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';fill:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan4183">58.6462 [d]</tspan> </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="118.89019"
+         y="175.91832"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80981541px;line-height:1;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';text-align:start;text-anchor:start;stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan4001">J2: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4163">Not provided</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="118.89019"
+         y="188.80176"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.12269878px;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3995" /><tspan
+         sodipodi:role="line"
+         x="118.89019"
+         y="201.6852"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3991" /><tspan
+         sodipodi:role="line"
+         x="118.89019"
+         y="214.56862"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'VictorMono Nerd Font';-inkscape-font-specification:'VictorMono Nerd Font Bold';stroke:#040000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3981" /></text>
+    <path
+       style="fill:#000000;stroke-width:0.21862051"
+       d="m 11.102118,163.1591 c -1.3005177,-0.48793 -1.8761144,-0.95696 -2.3753701,-1.93559 -0.3852297,-0.7551 -0.4485637,-1.18125 -0.3650677,-2.45628 0.3487897,-5.32602 7.6608168,-13.76458 23.5006078,-27.12128 l 0.518525,-0.43724 -0.374975,-1.63965 c -0.277011,-1.21132 -0.379305,-2.69622 -0.391567,-5.68414 -0.01801,-4.38908 0.345981,-6.76546 1.554394,-10.14809 3.649193,-10.215 12.638095,-17.688086 23.435655,-19.483727 2.955009,-0.491407 8.603904,-0.340647 11.391806,0.30405 3.140095,0.726134 6.237109,1.943408 8.757551,3.442119 l 0.996521,0.592567 4.031754,-2.401245 c 14.807219,-8.818961 24.775788,-12.680666 29.322128,-11.359011 1.58133,0.459702 2.705,1.636188 2.91775,3.05489 0.39872,2.658871 -1.48863,6.54449 -5.80454,11.9502 -2.17074,2.718887 -10.943762,11.563787 -14.970489,15.093147 -1.563145,1.37006 -2.827117,2.59273 -2.80884,2.71703 0.01826,0.12431 0.202183,1.16062 0.40868,2.3029 0.682955,3.7781 0.09613,9.316 -1.452241,13.70498 -3.078868,8.72728 -10.323009,15.72042 -19.184499,18.51977 -3.115753,0.98426 -5.46475,1.30558 -9.428253,1.28969 -5.657199,-0.0226 -9.311028,-0.80792 -13.089658,-2.81311 l -1.830703,-0.97149 -3.41619,2.00444 c -3.905415,2.29151 -12.006155,6.49123 -15.29646,7.93024 -2.949192,1.28982 -6.01446,2.39511 -8.560748,3.08686 -2.572679,0.69892 -6.244777,0.92357 -7.485771,0.45797 z m 7.702728,-1.24031 c 10.358457,-2.82712 27.560341,-12.44559 46.822403,-26.18087 32.052636,-22.85591 51.824261,-43.555085 47.037321,-49.244039 -2.19823,-2.612432 -9.15506,-1.056261 -20.073631,4.490283 -5.9101,3.002252 -14.006807,7.696605 -13.97678,8.103542 0.0083,0.11133 0.254164,0.33367 0.546553,0.494087 0.494323,0.27122 0.730987,0.17464 3.373677,-1.376841 12.270441,-7.203758 20.696981,-9.571685 22.652181,-6.365384 1.66523,2.730745 -1.66502,8.439652 -9.751693,16.717012 -9.785197,10.01592 -23.207211,20.78274 -39.24426,31.48081 -11.545643,7.70192 -21.353267,13.17412 -28.529975,15.9184 -4.286314,1.63904 -8.07191,2.07605 -9.532323,1.10044 -2.381651,-1.59105 -1.78553,-4.63634 1.860995,-9.50696 2.520103,-3.36608 5.818349,-6.79277 12.095525,-12.56659 l 1.125975,-1.03567 -0.340139,-0.99824 c -0.305865,-0.89767 -0.376215,-0.96662 -0.698192,-0.68437 -0.196928,0.17263 -1.538604,1.31916 -2.9815,2.54782 -8.086048,6.88549 -14.529687,13.49147 -17.604242,18.04776 -3.3796088,5.00837 -3.4801588,8.43928 -0.282456,9.63781 1.306063,0.48953 4.484515,0.24416 7.500561,-0.579 z m 4.974434,-5.45743 c 7.827414,-1.87656 23.247833,-10.54263 40.022066,-22.49189 12.456611,-8.87356 21.948265,-16.68469 29.782272,-24.50924 7.287132,-7.27837 10.955682,-12.334202 11.288322,-15.557184 0.11616,-1.125474 0.0774,-1.266724 -0.53498,-1.952158 -0.61863,-0.692347 -0.76148,-0.743927 -2.26796,-0.818847 -1.9745,-0.0982 -4.135698,0.418387 -7.647147,1.827901 -2.740766,1.100134 -8.247426,3.884846 -11.874805,6.005034 l -2.338057,1.366594 0.682237,0.70388 0.682228,0.70389 2.885295,-1.45853 c 4.889699,-2.471755 8.250644,-3.538199 10.073242,-3.196282 0.446067,0.0837 1.126414,0.434117 1.511871,0.778757 0.632427,0.565414 0.699747,0.744504 0.689517,1.834318 -0.0142,1.519877 -1.013474,3.576147 -3.099831,6.379087 -1.81768,2.44198 -9.680161,10.35202 -13.613298,13.69563 -16.962923,14.42044 -38.73847,28.26396 -48.288508,30.69881 -4.217453,1.07528 -6.148235,0.38308 -6.14783,-2.20401 3.31e-4,-2.15548 2.103649,-5.43272 6.223418,-9.69694 2.267467,-2.34697 2.297561,-2.39175 2.06183,-3.06799 -0.131577,-0.37743 -0.316821,-0.68624 -0.411662,-0.68624 -0.290562,0 -5.65287,5.02504 -8.244942,7.72637 -4.447679,4.63514 -7.191342,8.52794 -7.740712,10.9828 -0.672081,3.00317 1.605591,4.06347 6.307434,2.93624 z m 42.686505,-4.07615 c 9.627717,-1.64863 18.377477,-8.80162 21.892391,-17.89719 1.964569,-5.08372 2.654985,-11.54714 1.653019,-15.47485 l -0.265493,-1.04072 -1.74738,1.46094 c -11.185244,9.35167 -27.348986,21.08042 -38.967524,28.27565 -1.232474,0.76327 -2.240861,1.46903 -2.240861,1.56837 0,0.27195 2.832934,1.64355 4.638518,2.24579 4.108763,1.37044 10.071877,1.71228 15.03733,0.86201 z m -35.287717,-2.47427 c 2.081488,-0.49906 4.254363,-1.33867 7.776292,-3.00484 l 2.561549,-1.21181 -1.583768,-1.55865 c -1.989399,-1.95787 -2.850467,-3.03191 -4.363184,-5.44235 l -1.202488,-1.9161 -2.084446,2.24403 c -4.820333,5.1894 -6.647797,8.39171 -5.900383,10.33942 0.185327,0.48297 1.297569,0.95841 2.262791,0.96727 0.42085,0.004 1.560979,-0.18377 2.533637,-0.41697 z m 17.360836,-8.26492 c 12.54366,-7.51936 27.911255,-19.06729 36.912171,-27.73753 l 2.239266,-2.157 -0.659315,-1.37391 c -0.76736,-1.59903 -2.362589,-4.12723 -3.445473,-5.46055 l -0.756693,-0.93169 -1.268633,1.15032 c -0.697746,0.63267 -2.338065,2.12616 -3.645161,3.31887 -10.374544,9.46666 -27.020629,21.37836 -39.050325,27.94385 l -2.999636,1.63712 1.133775,1.61488 c 0.623579,0.88818 2.014658,2.52561 3.091288,3.63873 l 1.957504,2.02386 1.879238,-1.01439 c 1.03358,-0.55792 3.108978,-1.75157 4.611994,-2.65256 z m -9.195324,-5.77159 c 10.442424,-5.85093 23.428739,-14.8888 33.571512,-23.36424 2.910191,-2.43179 8.183095,-7.19279 9.235572,-8.33897 l 0.490754,-0.53445 -0.721039,-0.69886 -0.721039,-0.69885 -2.393161,2.24729 c -4.768269,4.47764 -8.359622,7.4912 -14.460436,12.13398 -8.968155,6.82487 -19.830801,13.96814 -27.503038,18.08601 -1.082174,0.58083 -1.999042,1.07952 -2.037497,1.1082 -0.161629,0.12056 0.866002,1.84347 1.099542,1.84347 0.140567,0 1.688037,-0.80261 3.43883,-1.78358 z m -2.150804,-1.63716 c 9.891797,-5.37167 24.394307,-15.32936 34.082658,-23.40178 3.172147,-2.64308 8.326388,-7.28296 9.275985,-8.35035 0.420694,-0.47286 0.419785,-0.47597 -0.327926,-1.12634 -1.321565,-1.14949 -4.858706,-3.440278 -6.324613,-4.096052 -2.035456,-0.910567 -3.989002,-1.559191 -6.121372,-2.032438 -2.747579,-0.609787 -2.839999,-0.593467 -3.805419,0.672474 -2.323291,3.046482 -10.318249,9.451856 -19.805598,15.867776 -4.505932,3.04718 -7.837098,5.10791 -9.935012,6.14598 -1.039785,0.5145 -1.666967,0.96465 -1.747083,1.25396 -0.300535,1.08525 -0.3867,5.83317 -0.143691,7.91725 0.378586,3.24671 1.861143,8.38406 2.419512,8.38406 0.08754,0 1.182203,-0.55554 2.432559,-1.23454 z M 36.166335,116.621 c 5.208784,-2.97717 17.649431,-11.77343 22.583039,-15.96752 2.207991,-1.877021 5.748826,-5.48941 5.748826,-5.865 0,-0.370497 -7.1083,-0.114347 -9.072753,0.32694 -6.373669,1.431751 -11.665471,4.528793 -15.982457,9.3538 -3.075679,3.43761 -5.50694,8.13239 -6.513782,12.57809 l -0.308162,1.36065 0.778606,-0.32532 c 0.428229,-0.17893 1.673238,-0.83667 2.766683,-1.46164 z m 56.23598,-10.11641 c 2.729665,-3.34712 4.104516,-6.26483 3.589899,-7.618391 -0.241207,-0.634417 -1.343931,-1.235724 -2.266186,-1.235724 -1.651805,0 -7.416694,2.204998 -10.520631,4.024035 l -1.014617,0.5946 1.022144,1.13395 c 1.471105,1.63201 2.892781,3.72343 4.021805,5.91648 l 0.983797,1.91093 1.378734,-1.48845 c 0.758304,-0.81866 2.020583,-2.27549 2.805055,-3.23743 z"
+       id="path4047"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
