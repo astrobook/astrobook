@@ -1,12 +1,12 @@
-# Computer methods for astrodynamics 🚀
+# Computer methods for astrodynamics 🚀📕 
+
+<img align="left" src="figs/cover.png" width="200"/>
 
 This repository holds an open-source book that covers in detail all the topics
 related with astrodynamics, orital-mechanics and astronomy. My intention
 writing this book is to share all the knowledge that I have adquired during the
 last years on all previous topics while making a small contribution to the
 open-source community.
-
-## Style of the book 📕
 
 I would like to mantain a standard style along the book. All drawings and figures
 should be embraced by a thick blakc line. Furthermore, drawings should be as
