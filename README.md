@@ -26,7 +26,10 @@ bodies and more!
 For example, you can check one of the beautiful images that this book provides.
 In this case general information on planet Mercury is shown in the figure:
 
-![Mercury](figs/bodies/mercury.png)
+<p align="center">
+  <img src="figs/bodies/mercury.png">
+</p>
+
 
 ## How to contribute 🖥️
 
