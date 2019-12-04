@@ -1,0 +1,98 @@
+% Load packages
+\usepackage{graphicx,amsmath,amsfonts,amssymb,color,
+dcolumn,siunitx,longtable,bm,paralist,setspace,rotating,array,fix-cm,
+multirow,multicol,hhline,enumitem,cancel,tikz,listings,ifthen,mathabx,
+framed,caption,pdfpages,eurosym}
+
+% Fourier font is beautiful
+\let\widering\relax
+\usepackage{fourier}
+
+\usepackage[a4paper]{geometry} 
+\usepackage[super,ref]{cite}
+\usepackage[yearmonthsep={},monthdaysep={}]{datetime2}
+
+% hyperref and associated packages
+\usepackage[unicode=true,bookmarks=true,bookmarksopen=false,
+	bookmarksopenlevel=1,pdfborder={0 0 0},backref=false,
+	colorlinks=true,allcolors=magenta,pdfstartview=Fit,
+	pdfcenterwindow=true,pdfdisplaydoctitle=true,
+	pdfpagelayout=OneColumn,linktocpage=true]{hyperref}
+\hypersetup{pdfauthor={\authorname},pdftitle={\doctitle\ -- \docsubtitle},
+pdfproducer={\authordepartment}}
+
+% fancyhdr
+\newgeometry{left=2.8cm,right=2.8cm,bottom=3cm,top=3cm}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\fancyhead[L]{\nouppercase{\leftmark}}
+\fancyhead[C]{}
+\fancyhead[R]{\doctitle}
+\fancyfoot[L]{\thepage}
+\fancyfoot[C]{\authordepartment}
+\fancyfoot[R]{Version \docversion}  
+
+% maths
+\newcommand{\const}{\text{const}} 
+\newcommand{\etal}{{\it et al. }}
+\newcommand{\oone}{\mathcal{O}(1)} 
+\newcommand{\paren}[1]{\left( #1 \right)} 
+\newcommand{\brckt}[1]{\left[ #1 \right]} 
+\newcommand{\pd}{\partial} 
+\newcommand{\pr}{^\prime}
+\newcommand{\dd}{\mathrm{d}}
+
+% text
+\newenvironment{inlist} % Use inlist for inline lists with roman numerals  
+	{\begin{inparaenum}[(\itshape i\/\upshape )]} {\end{inparaenum}}
+\newcommand{\mycite}[1]{[\citen{#1}]}
+
+% multicol 
+\setlength\columnseprule{.4pt}
+\raggedcolumns
+
+% itemize item vertical separation distance
+\setitemize{noitemsep}
+
+% number figures, tables and equations within sections
+\numberwithin{equation}{section}
+\numberwithin{figure}{section}
+
+% fancy chapters
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+{\bfseries\Large}
+{\filright\MakeUppercase{\chaptertitlename} \Huge\thechapter}
+{2ex}
+{\titlerule\vspace{2ex}\filleft}
+[\vspace{2ex}\titlerule]
+
+
+
+
+
+
+
+% theorems box
+\usepackage{cleveref}
+\usepackage[most]{tcolorbox}
+\definecolor{poliastro_blue}{rgb}{0.0, 0.5, 1.0}
+
+\newtcbtheorem{Definition}{Definition}{
+	enhanced,
+	sharp corners,
+	attach boxed title to top left={
+		yshifttext=-1mm
+	},
+	colback=radian_blue!25!,
+	colframe=poliastro_blue!75!black,
+	fonttitle=\bfseries,
+	boxed title style={
+		sharp corners,
+		size=small,
+		colback=blue!75!black,
+		colframe=blue!75!black,
+	} 
+}{thm}

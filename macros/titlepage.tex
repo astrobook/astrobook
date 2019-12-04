@@ -1,0 +1,54 @@
+% Title page 
+% Must be inputted within \begin{document} \end{document}. 
+% Requires mariomacros.tex and \doctitle, \docsubtitle, \authorname,
+% \authordepartment
+
+%----------------------------------------------------------------------
+\pagenumbering{gobble} % removes page numbering, and pauses it
+
+\begin{titlepage}
+\newgeometry{left=1cm,right=1cm,bottom=1cm,top=1cm}
+\clearpage
+
+% Background color for the cover
+\definecolor{radianBlue}{rgb}{0.0, 0.5, 1.0}
+\definecolor{darktan}{rgb}{0.57, 0.51, 0.32}
+\definecolor{mediumpersianblue}{rgb}{0.0, 0.4, 0.65}
+\pagecolor{mediumpersianblue!50!}
+
+\thispagestyle{empty}
+\vspace*{\fill}
+
+\begin{center} 
+{\fontsize{60pt}{70pt}\selectfont \doctitle \par} 
+\vspace{1cm}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.75]{figs/cover.png}
+\end{figure}
+\vspace{1cm}
+{\Huge \sc \docsubtitle} 
+\\[2cm]
+{\huge \authorname}
+\\[1cm]
+%{\Large Version \docversion}
+%\\[2cm]
+%{\Large \sc %\href{\authordepartmenturl}{\authordepartment}} 
+\end{center}
+\vspace*{\fill}
+\end{titlepage} 
+%----------------------------------------------------------------------
+
+%---------------------------------------------------------------------- 
+\newgeometry{left=2.8cm,right=2.8cm,bottom=3cm,top=3cm}
+\pagenumbering{arabic} % restores page numering and resumes it
+\thispagestyle{empty}
+%\newpage
+\definecolor{mediumpersianblue}{rgb}{0.0, 0.4, 0.65}
+\pagecolor{mediumpersianblue!25!}
+
+\newpage
+ \hbox{}
+\newpage
+%----------------------------------------------------------------------

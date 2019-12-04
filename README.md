@@ -30,3 +30,11 @@ Procedure to add your contribution is very simple:
 4. Once merged, celebrate your new contribution
 
 Your changes will be added in furhter versions/releases of the book.
+
+## LaTeX utilities 🎨
+
+When writing this book, I found lots of really useful sources for LaTeX. This
+section shows a collection of links that I usually make use of when writing
+with TeX:
+
+* [Latex Colors](https://latexcolor.com/)
