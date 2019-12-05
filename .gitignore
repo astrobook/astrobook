@@ -8,3 +8,11 @@
 *.out
 
 *.gz
+
+*.xml
+
+*.blg
+
+*.bbl
+
+astrobook_main-blx.bib
