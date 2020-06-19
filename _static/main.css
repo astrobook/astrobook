@@ -1,0 +1,4 @@
+/* Justify all body content because of academical text nature */
+body { font-family: sans-serif; }
+h1 { font-family: monospace; text-align: center; }
+h2 { font-size: 24px; text-decoration: underline; }

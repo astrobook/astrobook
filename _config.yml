@@ -1,0 +1,8 @@
+# Book settings
+title: The Astrobook
+author: Jorge M.G.
+logo: logo.png
+
+latex:
+  latex_documents:
+    targetname: astrobook.tex
