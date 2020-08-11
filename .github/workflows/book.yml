@@ -13,7 +13,14 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    # Install dependencies
+    # Install Makefile and asymptote software
+    - name: Install Makefile and asymptote
+      run: |
+        sudo apt-get install build-essential
+        sudo apt-get install asymptote
+        asy -version
+
+    # Install Python dependencies
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
@@ -26,8 +33,7 @@ jobs:
 
     # Build the book
     - name: Build the book
-      run: |
-        jupyter-book build .
+      run: "make html"
 
     # Deploys book's HTML to github-pages
     - name: Deploy
