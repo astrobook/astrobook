@@ -18,14 +18,14 @@ html: drawings
 	@echo "Building the book..."
 	jupyter-book build .
 
-clean-drawings:
+clean-images:
 	@echo "Cleaning *.png drawings..."
-	rm -rf drawings/*.png
+	rm -rf $(IMG_DIR)/*.png
 	@echo "Done!"
 
 drawings:
 	@echo "Rendering drawings..."
 	mkdir -p $(IMG_DIR)
-	asy -vv $(DWG_DIR)/*.asy
+	asy -v $(DWG_DIR)/*.asy
 	mv *.png $(IMG_DIR)/
 	@echo "Done!"
