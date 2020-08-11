@@ -18,7 +18,7 @@ html: drawings
 	@echo "Building the book..."
 	jupyter-book build .
 
-clean-drawings:
+clean-images:
 	@echo "Cleaning *.png drawings..."
 	rm -rf $(IMG_DIR)/*.png
 	@echo "Done!"
