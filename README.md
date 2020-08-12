@@ -1,13 +1,13 @@
-<h1 float="center">The Astrobook</h1>
+<h1 align="center">The Astrobook</h1>
 
 This repository holds official source files for building **The Astrobook**, an
 open-source book on astronomy and orbital mechanics, who's main purpose is to be
 completely reproducible, free and accessible anywhere.
 
+<img align="right" height=300px; src="https://github.com/astrobook/astrobook/blob/master/drawings/images/astro_logo.png">
+
 
 #### Why this book?
-
-<img align="right" height=300px; src="https://github.com/astrobook/astrobook/blob/master/drawings/images/astro_logo.png">
 
 Academical and technical books are usually expensive. Old book versions might
 contain outdated content or some kind of errata, forcing reader to have always
@@ -26,8 +26,15 @@ open-source features.
 
 #### About its content
 
-The Astrobook content is mainly 
+All the content of this book is based on reputable information sources such us
+science articles, technical books and manuals.Thus, every chapter contains at the end
+a list of references so reader can easily find original content. In addition to
+this, all figures of this book can be easily reproduce since they are based on a
+vector drawing software.
 
+First chapters of the book are just a brief introduction to astronomy basics. As
+you advance in your reading task, orbital mechanics topics are introduced from
+the two-body problem till more complex topics such us interplanetary flight.
 
 #### How can you contribute
 
@@ -38,8 +45,7 @@ this page, different contribution topics are presented, such as writing book
 content, drawing technical figures or package maintenance.
 
 
-Contact
--------
+#### Contact
 
 If you are interested to contact official developers, please send an email to
 `jorge@on-orbit.dev` with the subject `Astrobook` followed by any other keywords
