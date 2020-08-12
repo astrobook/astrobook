@@ -1,75 +1,42 @@
-The Astrobook
-=============
+<h1 float="center">The Astrobook</h1>
 
-Welcome to the official webpage of **The Astrobook**, an open-source book on
-orbital mechanics and astrodynamics.  Main objective of this work is to be a
-reference in the orbital mechanics field and accessible anywhere where Ethernet
-connection exists.
+This repository holds official source files for building **The Astrobook**, an
+open-source book on astronomy and orbital mechanics, who's main purpose is to be
+completely reproducible, free and accessible anywhere.
 
 
-Why this book?
---------------
+#### Why this book?
 
-**Academical and technical books are usually pretty expensive** from the point of
-view of students budget. Old book versions might contain outdated content or
-some kind of errata, forcing reader to have always the latest edition. **By
-having online materials like The Astrobook, content is always up to date.**
+<img align="right" height=300px; src="https://github.com/astrobook/astrobook/blob/master/drawings/images/astro_logo.png">
 
-Another reason behind writing this book is **learning while teaching.** Writing
-a simple section or chapter might be the final result of a deep search and study
-on a particular topic, increasing not only authors knowledge but community also.
+Academical and technical books are usually expensive. Old book versions might
+contain outdated content or some kind of errata, forcing reader to have always
+the latest edition. By having online materials like this one, content is always
+up to date and thus, you are not required to buy more editions.
 
-Finally, a **modern approach** is also applied: different **computer
-algorithms** are presented to readers as other daily used tools, always keeping
-in mind open-source features.
+Another reason behind writing this book is learning while teaching. Writing a
+simple section or chapter might be the final result of a deep search and study
+on a particular topic, increasing not only authors knowledge but also community
+one.
 
-
-About its content
------------------
-
-```{warning}
-The Astrobook is still under heavy maintenance although very active.
-```
-
-**The idea of this volume is to serve as a reference one in the orbital mechanics
-field, something very ambitious and still far from reality.** 
-
-First chapters of the book provide provide a quick introduction to astronomy and
-main Solar System bodies. Then, basic topics such us two body problem, orbits
-geometry, position as function of time, maneuvers, patched conics and many
-others are also presented.
-
-In order to provide also **practical knowledge**, different examples are provided
-among each section as topics are introduced to reader. **A collection of exercises
-is provided at the end of each chapter also for reader.**
+Finally, a modern approach is also applied: different computer algorithms are
+presented to readers as other daily used tools, always keeping in mind
+open-source features.
 
 
-How to contribute
------------------
+#### About its content
 
-**Anyone can contribute to the project**, no matter its nature or academical
-knowledge **as long as contributions are original and mathematically correct.**
-Contributions might be classified in the following categories:
+The Astrobook content is mainly 
 
-* **Content**: related with technical knowledge. This category includes chapter
-    writing, figures design, exercises creation and anything that has to do with
-    final printable version of the book.
 
-* **Maintenance**: related with control version and online support. Everything
-    related with the process of converting previously created content files with
-    its final rendering and presentation in this official webpage.
+#### How can you contribute
 
-```{tip}
-Refer to [official source code files](https://github.com/astrobook/astrobook) or
-[deployed webpage repository](https://github.com/astrobook/astrobook.github.io)
-respectively. Developers can access issues section for more information about
-bugs and new desired features.
-```
+If you are interested in contributing to this project, you can refer to
+[official contributing
+guide](https://github.com/astrobook/astrobook/blob/dev/CONTRIBUTING.md). Within
+this page, different contribution topics are presented, such as writing book
+content, drawing technical figures or package maintenance.
 
-Although control version such us Git is expected to be known by contributors
-together with GitHub workflow, information can be directly passed in plain text
-format and merged in source files by authorized people working on the project.
-Original author for the contribution will be kept. 
 
 Contact
 -------
