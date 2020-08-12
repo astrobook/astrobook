@@ -2,6 +2,7 @@
 title: The Astrobook
 author: Jorge M.G.
 logo: drawings/images/astro_logo.png
+exclude_patterns: ["CONTRIBUTING.md"]
 
 latex:
   latex_documents:
