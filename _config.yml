@@ -4,6 +4,9 @@ author: Jorge M.G.
 logo: drawings/images/astro_logo.png
 exclude_patterns: ["README.md", "CONTRIBUTING.md"]
 
+html:
+  home_page_in_navbar: false
+
 latex:
   latex_documents:
     targetname: astrobook.tex
