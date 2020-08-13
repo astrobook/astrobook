@@ -1,8 +1,8 @@
 # This file enables to automate testing and maintenance tasks
 
 SRC_DIR = ./content
-DWG_DIR = ./drawings
-IMG_DIR = ./drawings/images
+DWG_DIR = ./dwg
+IMG_DIR = ./dwg/png
 BUILD_DIR = ./_build
 
 ASY_FILES:= $(wildcard $(DWG_DIR)/*.asy)
