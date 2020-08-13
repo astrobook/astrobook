@@ -1,7 +1,7 @@
 # Book settings
 title: The Astrobook
 author: Jorge M.G.
-logo: drawings/images/astro_logo.png
+logo: dwg/png/astro_logo.png
 exclude_patterns: ["README.md", "CONTRIBUTING.md"]
 
 html:
