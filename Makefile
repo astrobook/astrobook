@@ -11,7 +11,7 @@ ASY_FILES:= $(wildcard $(DWG_DIR)/*.asy)
 
 clean:
 	@echo "Cleaning workspace..."
-	rm -rf $(BUILD_DIR) $(IMG_DIR)/*.png
+	rm -rf $(BUILD_DIR)
 	@echo "Done!"
 
 html: drawings
