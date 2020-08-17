@@ -1,9 +1,9 @@
 <h1 align="center">The Astrobook</h1>
 
 This repository holds official source files for building [**The
-Astrobook**](https://astrobook.github.io/), an open-source book on astronomy and
-orbital mechanics, who's main purpose is to be completely reproducible, free and
-accessible anywhere.
+Astrobook**](https://astrobook.github.io/), an open-source book on astronomy,
+focused on both celestial and orbital mechanics and who's main purpose is to be
+completely reproducible, free and accessible anywhere.
 
 <img align="right" height=300px; src="https://github.com/astrobook/astrobook/blob/master/drawings/images/astro_logo.png">
 
