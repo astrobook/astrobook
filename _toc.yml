@@ -1,1 +1,11 @@
-- file: content/index
+- file: src/index
+
+
+- part: ASTRONOMY BASICS
+  numbered: true
+  chapters:
+  - file: src/astronomy/index
+  - file: src/astronomy/history/index
+  - file: src/astronomy/solar_system/index.md
+    sections:
+      - file: src/astronomy/solar_system/mercury.md
