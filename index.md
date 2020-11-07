@@ -15,7 +15,7 @@ carefully all terms and check if they match with your purposes.
 
 Finally, if you find any kind of error or would like to improve the book by
 adding more content or information, please refer to the [contributing
-guide](https://github.com/astrobook/astrobook/blob/master/CONTRIBUTING). This
+guide](https://github.com/astrobook/astrobook/blob/master/contributing.md). This
 file will guide you in the process through which you can help to the project
 either adding new features or solving different issues.
 
